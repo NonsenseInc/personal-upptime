@@ -4,7 +4,7 @@
     "url": "$FRITZBOX_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fritzbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1193,
     "timeMonth": 1193,
     "timeYear": 1193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-15": 0
+    }
   }
 ]
